@@ -43,8 +43,32 @@ header img {
     background-color: #00000044;
 }
 
+#heading {
+    text-align: center;
+}
+
 /* Main */
 
+main {
+    padding: 35px 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+figure {
+    box-shadow: 0 0 10px #00000033;
+}
+
+figure img {
+    width: 250px;
+    height: 160px;
+}
+
+figcaption {
+    padding: 4px;
+    text-align: center;
+}
 
 /* Footer */
 
