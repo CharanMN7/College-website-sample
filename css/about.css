@@ -45,6 +45,13 @@ header img {
 
 /* Main */
 
+main {
+    text-align: center;
+}
+
+main img {
+    width: 350px;
+}
 
 /* Footer */
 
