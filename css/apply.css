@@ -45,6 +45,33 @@ header img {
 
 /* Main */
 
+main h1, main p {
+    text-align: center;
+}
+
+main form {
+    width: fit-content;
+    max-width: 400px;
+    margin: 10px auto;
+}
+
+
+table tr td:nth-of-type(odd) {
+    padding: 20px 0;
+    text-align: right;
+}
+
+#button {
+    text-align: center;
+}
+
+#button button {
+    padding: 10px 15px;
+    font-size: 18px;
+    background-color: white;
+    border: 1px solid #00000044;
+    border-radius: 8px;
+}
 
 /* Footer */
 
