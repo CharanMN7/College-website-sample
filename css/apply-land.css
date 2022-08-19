@@ -45,6 +45,23 @@ header img {
 
 /* Main */
 
+main {
+    text-align: center;
+}
+
+#one, #two {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#one img, #two img {
+    width: 350px;
+}
+
+#two {
+    margin-top: 4em;
+}
 
 /* Footer */
 
